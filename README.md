@@ -7,4 +7,7 @@ new cheages compelted
 Collection concept
 master
 code conflict resolving
-Final step
+Enver2
+Final coe conflict
+Final step changed
+ master
