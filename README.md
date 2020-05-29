@@ -6,3 +6,4 @@ I can do more changes
 new cheages compelted 
 Collection concept
 master
+code conflict resolving
